@@ -1,0 +1,12 @@
+{
+  "name": "outlight-rp-bot",
+  "version": "1.0.0",
+  "description": "بوت ترحيب وتذاكر لسيرفر OutLight RP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
